@@ -1,0 +1,1 @@
+Exercícios realizados em python.
